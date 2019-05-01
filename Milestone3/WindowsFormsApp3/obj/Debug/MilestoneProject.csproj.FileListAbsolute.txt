@@ -1,0 +1,10 @@
+C:\Users\Cantrell\Desktop\WindowsFormsApp3\obj\Debug\MilestoneProject.csprojAssemblyReference.cache
+C:\Users\Cantrell\Desktop\WindowsFormsApp3\obj\Debug\MilestoneProject.Form1.resources
+C:\Users\Cantrell\Desktop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Cantrell\Desktop\WindowsFormsApp3\obj\Debug\MilestoneProject.csproj.GenerateResource.cache
+C:\Users\Cantrell\Desktop\WindowsFormsApp3\obj\Debug\MilestoneProject.csproj.CoreCompileInputs.cache
+C:\Users\Cantrell\Desktop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Cantrell\Desktop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Cantrell\Desktop\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Cantrell\Desktop\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Cantrell\Desktop\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
